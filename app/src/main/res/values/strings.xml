@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="game_description">This is a simple dice game.
+    To win the game you have to get up  to 100 points on your 15 attempts.</string>
+</resources>
